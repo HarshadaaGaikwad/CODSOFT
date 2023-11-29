@@ -1,2 +1,2 @@
-# CodSoft
+# CodSoft-Task2
 CodSoft projects 
